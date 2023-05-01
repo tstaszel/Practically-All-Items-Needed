@@ -11,7 +11,7 @@ namespace JotunnModStub
     internal class JotunnModStub : BaseUnityPlugin
     {
         public const string PluginGUID = "com.jotunn.jotunnmodstub";
-        public const string PluginName = "JotunnModStub";
+        public const string PluginName = "PAIN - Practically All Items Needed";
         public const string PluginVersion = "0.0.1";
         
         // Use this class to add your own localization to the game
